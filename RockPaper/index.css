@@ -1,13 +1,36 @@
 h1 { text-align: center;
 	  font-size: 50px;
 	  color: red;
+	  text-decoration: underline;
 }
 
-<img src = "rock.png">
-<img src = "paper.jpg">
-<img src = "scissors.jpg">
+
 h2 { text-align: center;
-	  font-size: 50px;
+	  font-size: 30px;
 	  color: blue;
 }
 
+#rock { 
+
+
+}
+#paper{
+
+}
+#scissors{
+
+}
+body {
+	background-color: #f39c12;
+}
+h3 {
+	color: red;
+	font-size: 30px;
+}
+h4 {
+	color:black;
+	font-size: 30px;
+}
+h5 {color: purple;
+    font-size: 30px;
+    }
